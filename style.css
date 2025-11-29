@@ -1,3 +1,15 @@
 p{
     color: red;
 }
+
+*{
+    background-color: rgb(68, 132, 234);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center; 
+    font-weight: bold;
+}
