@@ -13,3 +13,7 @@ table, th, td {
     text-align: center; 
     font-weight: bold;
 }
+
+th, td {
+  background-color: #96D4D4;
+}
