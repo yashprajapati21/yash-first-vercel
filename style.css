@@ -8,12 +8,17 @@ p{
 }
 
 table, th, td {
-    border: 1px solid black;
+    border: 2px solid black;
     border-collapse: collapse;
     text-align: center; 
     font-weight: bold;
+    width: 400px;
 }
 
 th, td {
   background-color: #96D4D4;
+}
+
+th{
+    height: 30px;
 }
